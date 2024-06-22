@@ -2,6 +2,7 @@ header {
     width: auto;
     height: fit-content;
     padding: 32px;
+    background-color: #088395;
 }
 .nav {
     display: flex;
