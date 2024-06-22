@@ -11,3 +11,14 @@ header {
 .nav li {
     margin: 0 auto;
 }
+.nav li a {
+    text-decoration: none;
+    color: #37B7C3;
+}
+
+
+
+.nav li a :hover{
+    text-decoration: none;
+    color: #EBF4F6;
+}
