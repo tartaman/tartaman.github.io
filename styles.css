@@ -18,7 +18,7 @@ header {
 
 
 
-.nav li a :hover{
+.nav li a:hover{
     text-decoration: none;
     color: #EBF4F6;
 }
