@@ -1,0 +1,12 @@
+header {
+    width: auto;
+    height: fit-content;
+    padding: 32px;
+}
+.nav {
+    display: flex;
+    list-style: none;
+}
+.nav li {
+    margin: 0 auto;
+}
