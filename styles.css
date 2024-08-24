@@ -6,6 +6,7 @@ header {
     height: fit-content;
     padding: 32px;
     background-color: #088395;
+    animation: anim 5s infinite;
 }
 .nav {
     display: flex;
@@ -24,4 +25,12 @@ header {
 .nav li a:hover{
     text-decoration: none;
     color: #EBF4F6;
+}
+
+@keyframes anim {
+    from{ background-color: rebeccapurple
+    }
+    to {
+        background-color: red;
+    }
 }
